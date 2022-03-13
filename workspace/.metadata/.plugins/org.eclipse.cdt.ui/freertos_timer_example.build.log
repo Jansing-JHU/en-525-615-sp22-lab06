@@ -1,0 +1,10 @@
+12:12:39 **** Incremental Build of configuration Debug for project freertos_timer_example ****
+make -j15 all 
+arm-none-eabi-size   freertos_timer_example.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29984	    124	   9240	  39348	   99b4	freertos_timer_example.elf
+Finished building: default.size.stdout
+ 
+
+12:12:40 Build Finished. 0 errors, 0 warnings. (took 758ms)
+
